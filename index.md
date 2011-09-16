@@ -20,3 +20,8 @@ title: Top page
  - [UnityGames](http://www.unitygames.jp/) - 日本語によるチュートリアルなど
  - [Unityユーザー助け合い所](https://www.facebook.com/groups/unityuserj/) - Facebookグループ
 
+## ゲーム情報
+
+筆者がUnityを利用して作成したゲームが配信されています。
+
+[![CubeSieger](/images/cubesieger.png)](http://itunes.apple.com/jp/app/cubesieger/id443114464?mt=8) [![Geomelix](/images/geomelix.png)](http://itunes.apple.com/us/app/geomelix/id457366929)
