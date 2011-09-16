@@ -1,29 +1,30 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="utf-8" />
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/unity-examples/css/syntax.css" type="text/css" />
-  <link rel="stylesheet" href="/unity-examples/css/screen.css" type="text/css" />
+  <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+  <link rel="stylesheet" href="/css/screen.css" type="text/css" />
 </head>
+
 <body>
 
 <div class="site">
-  <div class="title">
-    <a href="/">GitHub Page Test</a>
-    <a class="extra" href="/">home</a>
+  <div id="title"></div>
+  <div id="navigation">
+    <ul>
+      <li><a href="/">HOME</a></li>
+      <li><a href="/">GAMES</a></li>
+      <li><a href="/">DOWNLOADS</a></li>
+      <li><a href="/">FAQ</a></li>
+      <li><a href="/">BOOK</a></li>
+    </ul>
   </div>
   
   {{ content }}
   
-  <div class="footer">
-    <div class="contact">
-      <p>
-        <a href="http://github.com/keijiro/">github.com/keijiro</a><br />
-        <a href="http://twitter.com/_kzr/">twitter.com/_kzr</a><br />
-      </p>
-    </div>
-  </div>
+  <div class="footer">© 2011 KEIJIRO TAKAHASHI</div>
 </div>
 </body>
 </html>
