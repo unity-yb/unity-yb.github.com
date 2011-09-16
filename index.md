@@ -13,7 +13,7 @@ title: Top page
 
 [Amazon](http://www.amazon.co.jp/gp/product/4797365331) [楽天](http://search.books.rakuten.co.jp/bksearch/nm?sv=30&g=000&b=1&sitem=978-4-7973-6533-7)
 
-## Unityリンク
+## Unity関連リンク
 
  - [Unity Technologies Website](http://unity3d.com/)
  - [Unity Answers](http://answers.unity3d.com)
@@ -22,6 +22,12 @@ title: Top page
 
 ## ゲーム情報
 
-筆者がUnityを利用して作成したゲームが配信されています。
+筆者がUnityを利用して作成したゲームが何本か配信されています。Unityを利用したゲームの参考例として貰えればと思います。
 
 [![CubeSieger](/images/cubesieger.png)](http://itunes.apple.com/jp/app/cubesieger/id443114464?mt=8) [![Geomelix](/images/geomelix.png)](http://itunes.apple.com/us/app/geomelix/id457366929)
+
+## コンタクト
+
+ - [http://profiles.google.com/keijiro/about](Google Profile)
+ - [http://twitter.com/_kzr](twitter/_kzr)
+ - [http://facebook.com/kzr.takahashi](facebook.com/kzr.takahashi)
