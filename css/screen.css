@@ -10,11 +10,11 @@ body {
   height: 138px;
   margin: 0px;
   padding: 0px;
-  background-image: url(./images/title.png);
+  background-image: url(/images/title.png);
 }
 
 #navigation {
-  background-image: url(./images/navigation.png);
+  background-image: url(/images/navigation.png);
   font-family: Arial;
   font-size: 12px;
   height: 36px;
