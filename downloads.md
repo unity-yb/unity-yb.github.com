@@ -1,12 +1,18 @@
 ---
 layout: post
-title: Top page
+title: Downloads
 ---
 
-## 書籍情報
+# ファイルのダウンロード
 
-10/1全国書店およびAmazonで発売予定！ 予約受付中です。
+## CommonAssets.zip - 共通アセット
 
-## サポート情報
+書籍全体で使用する共通アセットです。
 
-書籍関連ファイルと追加情報をこのサイト上にアップしていきます。
+[ダウンロード (2.9MB)](https://github.com/downloads/unity-yb/unity-yb-assets/CommonAssets.zip)
+
+## CoinCrazyAssets.zip - 第6章用アセット
+
+第6章の作例(CoinCrazy)で使用するアセットです。キャラクターモデルやサウンドデータが含まれています。
+
+[ダウンロード (2.6MB)](https://github.com/downloads/unity-yb/unity-yb-assets/CommonAssets.zip)
