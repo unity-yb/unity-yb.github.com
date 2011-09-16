@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ
+title: Top page
 ---
 
 ## 書籍情報
