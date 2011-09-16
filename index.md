@@ -28,6 +28,6 @@ title: Top page
 
 ## コンタクト
 
- - [http://profiles.google.com/keijiro/about](Google Profile)
- - [http://twitter.com/_kzr](twitter/_kzr)
- - [http://facebook.com/kzr.takahashi](facebook.com/kzr.takahashi)
+ - [Google Profile](http://profiles.google.com/keijiro/about)
+ - [twitter/_kzr](http://twitter.com/_kzr)
+ - [facebook.com/kzr.takahashi](http://facebook.com/kzr.takahashi)
