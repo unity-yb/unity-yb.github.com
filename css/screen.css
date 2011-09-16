@@ -1,0 +1,127 @@
+body {
+  font-family: helvetica, hirakakupro-w3, sans-serif;
+  font-size: 10.5pt;
+  margin: 0px;
+  background-color: white;
+}
+
+#title {
+  width: 800px;
+  height: 138px;
+  margin: 0px;
+  padding: 0px;
+  background-image: url(./images/title.png);
+}
+
+#navigation {
+  background-image: url(./images/navigation.png);
+  font-family: Arial;
+  font-size: 12px;
+  height: 36px;
+}
+
+#navigation ul {
+  list-style: none;
+  overflow: hidden;
+  clear: both;
+  margin: 0px;
+  padding: 0px;
+}
+
+#navigation ul li {
+  display: inline;
+}
+
+#navigation ul li a {
+  padding: 0px 18px;
+  text-decoration: none;
+  color: white;
+  float: left;
+  margin-top: 11px;
+}
+
+
+#post {
+  padding: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+p {
+  line-height: 166%;
+  color: #404040;
+}
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #a0a;
+}
+
+.site {
+  width: 800px;
+  margin: 0px auto 4em auto;
+}
+
+.title {
+}
+
+.site .title a {
+  color: #a00;
+  text-decoration: none;
+}
+
+.site .title a:hover {
+  color: black;
+}
+
+.site .title a.extra {
+  color: #aaa;
+  text-decoration: none;
+  margin-left: 1em;
+}
+
+.site .title a.extra:hover {
+  color: black;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+.site .footer {
+ font-size: 80%;
+ color: #666;
+ border-top: 4px solid #eee;
+ margin-top: 2em;
+ overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+}
+
+#post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
