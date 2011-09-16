@@ -60,6 +60,11 @@ p {
   color: #404040;
 }
 
+#post ul li {
+  line-height: 166%;
+  color: #404040;
+}
+
 a {
   color: #00a;
 }
