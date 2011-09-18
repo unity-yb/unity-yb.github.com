@@ -14,7 +14,7 @@ title: Games
 
 [WebPlayerで実行する](/examples/BallMaze.html)
 
-[完成プロジェクトをダウンロードする](http://github.com/unity-yb/unity-ballmaze/zipball/master)
+完成プロジェクトを[ダウンロードする](http://github.com/unity-yb/unity-ballmaze/zipball/master) / [GitHubで覗く](http://github.com/unity-yb/unity-ballmaze)
 
 ## 第5章 - ブロックシューター
 
