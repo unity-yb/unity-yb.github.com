@@ -11,9 +11,17 @@ title: Top page
 
 10/1 ソフトバンククリエイティブより発売予定！ Amazon等で予約受付中です。
 
-[Amazonで見る](http://www.amazon.co.jp/gp/product/4797365331)
+[Amazonで見る](http://www.amazon.co.jp/gp/product/4797365331) | [楽天で見る](http://search.books.rakuten.co.jp/bksearch/nm?sv=30&g=000&b=1&sitem=978-4-7973-6533-7)
 
-[楽天で見る](http://search.books.rakuten.co.jp/bksearch/nm?sv=30&g=000&b=1&sitem=978-4-7973-6533-7)
+### 書籍の紹介
+
+ - Unityの使い方を基礎から解説。
+ - ステップ・バイ・ステップ方式による分かりやすい手順解説。
+ - 実践的なゲーム作例を3つ収録。
+ - 物理挙動、キャラクター、サウンド等、Unityの基本機能を網羅。
+
+
+話題のゲームエンジン[Unity](http://unity3d.com)の入門書です。3つのゲーム作例を通して、Unityでゲームを作るためのノウハウを学ぶことができます。モバイル(iOS/Android)対応です。
 
 ## ゲーム情報
 
