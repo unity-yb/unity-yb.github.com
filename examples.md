@@ -23,7 +23,7 @@ title: Games
 
 [WebPlayerで実行する](/examples/BlockShooter.html)
 
-完成プロジェクトをダウンロードする（準備中）
+完成プロジェクトを[ダウンロードする](http://github.com/unity-yb/unity-blockshooter/zipball/master) / [GitHubで覗く](http://github.com/unity-yb/unity-blockshooter)
 
 ## 第6章 - コインクレイジー
 
