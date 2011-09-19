@@ -118,6 +118,14 @@ a:active {
   margin-top: 11px;
 }
 
+#navigation a:active {
+  color: red;
+}
+
+#navigation a:hover {
+  color: red;
+}
+
 #post {
   padding: 2em;
 }
