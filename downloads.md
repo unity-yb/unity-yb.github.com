@@ -15,4 +15,4 @@ title: Downloads
 
 第6章の作例(CoinCrazy)で使用するアセットです。キャラクターモデルやサウンドデータが含まれています。
 
-[ダウンロード (2.6MB)](https://github.com/downloads/unity-yb/unity-yb-assets/CommonAssets.zip)
+[ダウンロード (2.6MB)](https://github.com/downloads/unity-yb/unity-yb-assets/CoinCrazyAssets.zip)
