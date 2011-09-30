@@ -5,6 +5,10 @@ title: Top page
 
 このウェブサイトは、ソフトバンククリエイティブより10/1に発売される書籍「Unity入門」のサポートを行うサイトです。書籍で使用されるファイルや、完成例をダウンロードすることができます。また、よくある質問への答えや、書籍の内容への追加情報等も提供していきます。
 
+## 更新情報！
+
+- [追加記事](/articles.html)に「[Unity におけるフレームと Update](/articles/frame_and_update.html)」を追加しました。 (9/30)
+
 ## 書籍情報
 
 [![Book Cover](/images/book.png)](http://www.sbcr.jp/products/4797365337.html)
@@ -61,7 +65,7 @@ Unityとは / Unityの製品構成 / Unityのインストール / デモを動�
 
 筆者がUnityを使用して制作したゲームが、既に何本か配信されています。Unityを使用したゲームの参考例としてご覧ください。
 
-[![CubeSieger](/images/cubesieger.png)](http://itunes.apple.com/jp/app/cubesieger/id443114464) [![Geomelix](/images/geomelix.png)](http://itunes.apple.com/us/app/geomelix/id457366929)
+<center><a href="http://itunes.apple.com/jp/app/cubesieger/id443114464"><img class="nocenter" src="/images/cubesieger.png" alt="CubeSieger" /></a> <a href="http://itunes.apple.com/us/app/geomelix/id457366929"><img class="nocenter" src="/images/geomelix.png" alt="Geomelix" /></a></center>
 
 [**CubeSieger**](http://itunes.apple.com/jp/app/cubesieger/id443114464) 『日本発!!これからのボードゲームの定番に。CubeSieger(キューブシーガー)は、2人で対戦するアブストラクトゲームです。』
 
