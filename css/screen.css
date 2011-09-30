@@ -130,6 +130,17 @@ a:active {
   padding: 2em;
 }
 
+#post .caption {
+  margin-top: 0px;
+  text-align: center;
+  font-size: 90%;
+}
+
+#post p img {
+    display: block;
+    margin: 20px auto;
+}
+
 #site {
   width: 800px;
   margin: 0px auto 4em auto;
