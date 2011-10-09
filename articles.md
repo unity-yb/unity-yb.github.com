@@ -12,6 +12,7 @@ title: 追加記事
 プログラミングをまったく経験したことのない読者に向けた、スクリプト入門記事です。
 
  - [JavaSciprt 入門 (1)](/articles/js_tutor1.html)
+ - [JavaSciprt 入門 (2)](/articles/js_tutor2.html)
 
 
 ## [Unity におけるフレームと Update](/articles/frame_and_update.html)
