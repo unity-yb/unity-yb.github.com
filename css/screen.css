@@ -1,30 +1,30 @@
 body {
-	font-family: helvetica, hirakakupro-w3, sans-serif;
-	font-size: 10.5pt;
-	margin: 0px;
-	background-color: white;
+    font-family: helvetica, hirakakupro-w3, sans-serif;
+    font-size: 10.5pt;
+    margin: 0px;
+    background-color: white;
 }
 
 h1 {
-	font-family:  HiraKakuStd-W8;
-	font-size: 28pt;
-	color: #333;
-	margin-top: 10pt;
+    font-family:  HiraKakuStd-W8;
+    font-size: 28pt;
+    color: #333;
+    margin-top: 10pt;
 }
 
 h2 {
-	font-family:  HiraKakuStd-W8;
-	font-size: 16pt;
-	color: #222;
-	margin-top: 36pt;
-	border-bottom: 1px solid #666;
+    font-family:  HiraKakuStd-W8;
+    font-size: 16pt;
+    color: #222;
+    margin-top: 36pt;
+    border-bottom: 1px solid #666;
 }
 
 h3 {
-	font-family:  HiraMaruPro-W4;
-	font-size: 13pt;
-	color: #222;
-	margin-top: 20pt;
+    font-family:  HiraMaruPro-W4;
+    font-size: 13pt;
+    color: #222;
+    margin-top: 20pt;
 }
 
 #post p {
@@ -38,46 +38,46 @@ h3 {
 }
 
 #post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+/*  border: 1px solid #ddd; */
+    background-color: #eee;
+    padding: 0.5em 1em;
 }
 
 a {
-	text-decoration: none;
-	color: #00a;
+    text-decoration: none;
+    color: #00a;
 }
 
 a img {
-	border-style: none;
+    border-style: none;
 }
 
 a:visited {
-	color: #a00;
+    color: #a00;
 }
 
 a:hover {
-	color: red;
+    color: red;
 }
 
 a:active {
-	color: red;
+    color: red;
 }
 
 
 
 
 #toolbar {
-	margin-top: 16pt;
-	margin-bottom: 16pt;
+    margin-top: 16pt;
+    margin-bottom: 16pt;
 }
 
 #tweet_button {
-	float: right;
+    float: right;
 }
 
 #facebook_button {
-	float: right;
+    float: right;
 }
 
 
@@ -147,10 +147,10 @@ a:active {
 }
 
 #footer {
-	font-size: 8pt;
-	text-align: right;
-	color: #666;
-	border-top: 1px solid #666;
-	margin-top: 10pt;
-	padding-top: 4pt;
+    font-size: 8pt;
+    text-align: right;
+    color: #666;
+    border-top: 1px solid #666;
+    margin-top: 10pt;
+    padding-top: 4pt;
 }

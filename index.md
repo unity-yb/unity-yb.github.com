@@ -7,13 +7,14 @@ title: Top page
 
 ## 更新情報！
 
+- [追加記事](/articles.html)に「[JavaScript 入門 (1)](/articles/js_tutor1.html)」を追加しました。 (10/9)
 - [追加記事](/articles.html)に「[Unity におけるフレームと Update](/articles/frame_and_update.html)」を追加しました。 (9/30)
 
 ## 書籍情報
 
 [![Book Cover](/images/book.png)](http://www.sbcr.jp/products/4797365337.html)
 
-10/1 ソフトバンククリエイティブより発売予定！ Amazon等で予約受付中です。
+ソフトバンククリエイティブより発売！ Amazon等で購入できます。
 
 [Amazonで見る](http://www.amazon.co.jp/gp/product/4797365331) / [楽天で見る](http://search.books.rakuten.co.jp/bksearch/nm?sv=30&g=000&b=1&sitem=978-4-7973-6533-7)
 
